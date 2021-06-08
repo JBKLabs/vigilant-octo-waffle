@@ -18,7 +18,7 @@ Your challenge is to integrate with the REST Countries API to pull country data 
 
 # Requirements:
 
-You should use React. You also have complete control over which packages you use to do things like make HTTP requests or style your project.
+You should use React, however you have complete control over what technology you use to do things like make HTTP requests or style your project.
 
 The page should:
 
