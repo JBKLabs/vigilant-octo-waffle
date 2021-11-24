@@ -4,14 +4,15 @@ Your challenge is to integrate with the REST Countries API to pull country data 
 
 ## API specs
 
-`GET https://restcountries.eu/rest/v2/all`
+`GET https://restcountries.com/v2/all`
 
 ```json
 [
   {
     "name": "Argentina",
-    "flag": "https://restcountries.eu/data/arg.svg",
+    "flag": "https://flagcdn.com/ar.svg",
     "nativeName": "Argentina"
+    ...
   }
 ]
 ```
